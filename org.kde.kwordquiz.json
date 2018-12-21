@@ -21,8 +21,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.48/portingAids/kdelibs4support-5.48.0.tar.xz", 
-                    "sha256": "0e7f654bacd1e70aefb216998cd67d3280f6bbbf1ca6a2ee882142a70d2c1a15" 
+                    "url": "https://download.kde.org/stable/frameworks/5.53/portingAids/kdelibs4support-5.53.0.tar.xz",
+                    "sha256": "208a2f308aa55a1ec9c311e3c3224d65d78feb53a1df127b26007f046a9821aa"
                 } 
             ]
         },
@@ -32,8 +32,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/libkeduvocdocument-18.08.0.tar.xz", 
-                    "sha256": "d67a59d03e5e6e8cd445c94e5a1e56a2a0c9650ba1f5cb4831e1b4cf9cacbbc4" 
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkeduvocdocument-18.12.0.tar.xz",
+                    "sha256": "53f8edc5db71be5a1ccd3a66155470ea86ae65a404de85025b0a67c5eebb46b9"
                 } 
             ]
         },
@@ -43,8 +43,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/kwordquiz-18.08.0.tar.xz", 
-                    "sha256": "75066ea522b5b5be6b1a3651eef6648a3a5e62c97fe8f1b791dc2a71def2f0a9" 
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/kwordquiz-18.12.0.tar.xz",
+                    "sha256": "9cdb36800676c84cce1f78303d6a5b431a573d81058fca79cfc8d8ade13c1128"
                 } 
             ]        
         }
