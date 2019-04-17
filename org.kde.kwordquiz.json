@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kwordquiz",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "kwordquiz",
     "rename-icon": "kwordquiz",
@@ -15,25 +15,13 @@
     ],
     "modules": [
         {
-            "name": "kdelibs4support",
-            "buildsystem": "cmake-ninja",
-            "config-opts": ["-DCMAKE_BUILD_TYPE=RelWithDebInfo"],
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.53/portingAids/kdelibs4support-5.53.0.tar.xz",
-                    "sha256": "208a2f308aa55a1ec9c311e3c3224d65d78feb53a1df127b26007f046a9821aa"
-                } 
-            ]
-        },
-        {
             "name": "libkeduvocdocument",
             "buildsystem": "cmake-ninja",
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkeduvocdocument-18.12.0.tar.xz",
-                    "sha256": "53f8edc5db71be5a1ccd3a66155470ea86ae65a404de85025b0a67c5eebb46b9"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/libkeduvocdocument-19.04.0.tar.xz",
+                    "sha256": "bb0300ca6a89c7174714b005032380b81e6e7bfdf3a3bab82b6f42fc0693045e"
                 } 
             ]
         },
@@ -43,8 +31,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/kwordquiz-18.12.0.tar.xz",
-                    "sha256": "9cdb36800676c84cce1f78303d6a5b431a573d81058fca79cfc8d8ade13c1128"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/kwordquiz-19.04.0.tar.xz",
+                    "sha256": "a6433b5a2497398ed790965ef5469b53e406882f93b5a05e574d05cb193ef866"
                 } 
             ]        
         }
