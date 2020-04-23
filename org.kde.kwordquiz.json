@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.3/src/libkeduvocdocument-19.12.3.tar.xz",
-                    "sha256": "31594d30e03890507b25d676981164fd64258e69c6b264b85939118377eda964"
+                    "url": "https://download.kde.org/stable/release-service/20.04.0/src/libkeduvocdocument-20.04.0.tar.xz",
+                    "sha256": "bbcbbb8d6211483786d246f3221f69ecdeb45bc49f562049df3e75678a999b45"
                 } 
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.3/src/kwordquiz-19.12.3.tar.xz",
-                    "sha256": "6965a3b3c171c3f62aeecf4ccdddde14d23062ab914b1860822546a5770b80fc"
+                    "url": "https://download.kde.org/stable/release-service/20.04.0/src/kwordquiz-20.04.0.tar.xz",
+                    "sha256": "3d3a8c7b1a15c55cc1904406d7bf0e9078ecae3f5050b2067d2dfb1cef7a8983"
                 } 
             ]        
         }
