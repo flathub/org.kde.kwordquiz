@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/libkeduvocdocument-21.04.1.tar.xz",
-                    "sha256": "5bb7318dbea9783cb14fa0c9c85c6034da4efa9ebdb6cd0a20c159ba56f31034"
+                    "url": "https://download.kde.org/stable/release-service/21.04.0/src/libkeduvocdocument-21.04.0.tar.xz",
+                    "sha256": "24a40c23b0852fa462700e634a129f7fa355ad47bcea4b026cd211c20388c408"
                 } 
             ]
         },
