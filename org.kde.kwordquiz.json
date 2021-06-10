@@ -30,8 +30,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/kwordquiz-21.04.1.tar.xz",
-                    "sha256": "7b38afdcaf5ff0e42a67c019e231e7a840d50ce47cf36ebf30300cd4d8b281aa"
+                    "url": "https://download.kde.org/stable/release-service/21.04.2/src/kwordquiz-21.04.2.tar.xz",
+                    "sha256": "04716a2f7f211d5244d050f3f56993088f9be15ecb0f8fc389bb19150e259c75"
                 } 
             ]        
         }
