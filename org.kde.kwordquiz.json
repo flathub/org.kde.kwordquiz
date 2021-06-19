@@ -15,12 +15,12 @@
     "modules": [
         {
             "name": "libkeduvocdocument",
-            "buildsystem": "cmake-ninja",
+            "buildsystem": "cmake",
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.0/src/libkeduvocdocument-21.04.0.tar.xz",
-                    "sha256": "24a40c23b0852fa462700e634a129f7fa355ad47bcea4b026cd211c20388c408"
+                    "url": "https://download.kde.org/stable/release-service/21.04.2/src/libkeduvocdocument-21.04.2.tar.xz",
+                    "sha256": "3f1334e11c9546a4ec15f80c9903e0b2cde0f8b28004dfb1111dc6e61ec51c09"
                 } 
             ]
         },
