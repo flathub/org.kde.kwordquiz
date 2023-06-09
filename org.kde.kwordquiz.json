@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/kwordquiz-23.04.1.tar.xz",
-                    "sha256": "b9d2180c5d07d0c050501b11b42ebed331d1eaa6c3eca223339fb34908c2512c",
+                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/kwordquiz-23.04.2.tar.xz",
+                    "sha256": "abf0a9fd0eb940b0e59ad9d22477374dac77fcd157bc77c6c6f983313ab00d12",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
