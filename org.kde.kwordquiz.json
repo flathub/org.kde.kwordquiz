@@ -13,6 +13,13 @@
         "--socket=pulseaudio",
         "--socket=wayland"
     ],
+    "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/share/doc",
+        "*.la",
+        "*.a"
+    ],
     "modules": [
         {
             "name": "libkeduvocdocument",
